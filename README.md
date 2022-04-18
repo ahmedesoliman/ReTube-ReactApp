@@ -5,16 +5,16 @@
     <img src="./screenshots/reactube.svg" alt="drawing" width="450px"/>
   </a>
 </p><div style="text-align:center"></div>
-<!-- Name -->
+
 <h1 align="center">
   with :rocket:<span style="font-variant-caps: petite-caps;font-size: 30px;font-weight: 400;"> Typescript </span>:rocket:
 </h1> -->
 
 ReTube is a react app client that is an open source project relying on [React context](https://reactjs.org/docs/context.html) an useful feature of React that it is great for passing down data to deeply nested components. In this project, I tried to show some features of react/react components, react context with Typescript.
 
-# [LIVE)](http://ahmedesoliman.com/retube/)
+# [Demo)](http://ahmedesoliman.com/retube/)
 
-![](https://github.com/ahmedesoliman/retube-reactapp/blob/master/screenshots/fullplayer1.gif?raw=true)
+![](https://github.com/ahmedesoliman/retube-reactapp/blob/main/screenshots/fullplayer1.gif?raw=true)
 
 ## Main Features:
 
@@ -37,31 +37,31 @@ ReTube is a react app client that is an open source project relying on [React co
 
 :tv: Responsive
 
-![](https://github.com/ahmedesoliman/retube-reactapp/blob/master/screenshots/mobile.gif?raw=true)
+![](https://github.com/ahmedesoliman/retube-reactapp/blob/main/screenshots/mobile.gif?raw=true)
 
 ---
 
 :scissors: Crop videos
 
-![](https://github.com/ahmedesoliman/retube-reactapp/blob/master/screenshots/fullplayer2.gif?raw=true)
+![](https://github.com/ahmedesoliman/retube-reactapp/blob/main/screenshots/fullplayer2.gif?raw=true)
 
 ---
 
 :house: Homepage
 
-![](https://github.com/ahmedesoliman/retube-reactapp/blob/master/screenshots/home.png?raw=true)
+![](https://github.com/ahmedesoliman/retube-reactapp/blob/main/screenshots/home.png?raw=true)
 
 ---
 
 :tv: Video preview
 
-![](https://github.com/ahmedesoliman/retube-reactapp/blob/master/screenshots/video-preview.png?raw=true)
+![](https://github.com/ahmedesoliman/retube-reactapp/blob/main/screenshots/video-preview.png?raw=true)
 
 ---
 
 :pencil2: Edit video
 
-![](https://github.com/ahmedesoliman/retube-reactapp/blob/master/screenshots/edit.png?raw=true)
+![](https://github.com/ahmedesoliman/retube-reactapp/blob/main/screenshots/edit.png?raw=true)
 
 ## Acknowledgments
 
