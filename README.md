@@ -12,7 +12,7 @@
 
 ReTube is a react app client that is an open source project relying on [React context](https://reactjs.org/docs/context.html) an useful feature of React that it is great for passing down data to deeply nested components. In this project, I tried to show some features of react/react components, react context with Typescript.
 
-# [Demo)](http://ahmedesoliman.com/retube/)
+# [Demo](http://ahmedesoliman.com/retube/)
 
 ![](https://github.com/ahmedesoliman/retube-reactapp/blob/main/screenshots/fullplayer1.gif?raw=true)
 
