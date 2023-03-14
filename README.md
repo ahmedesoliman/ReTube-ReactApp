@@ -1,4 +1,5 @@
 # ReTube-ReactApp
+ReTube-ReactApp is a web application built using React, a popular JavaScript library for building user interfaces, that allows users to search for and watch YouTube videos. The application utilizes the YouTube Data API to retrieve video information and includes features such as video recommendations, user authentication, and the ability to create and manage playlists. ReTube-ReactApp provides a modern and seamless viewing experience for YouTube content.
 
 <!-- <p align="center">
   <a href="https://github.com/ahmedesoliman/reactube-client/">
